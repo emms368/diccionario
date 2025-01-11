@@ -1,0 +1,2 @@
+# diccionario
+Proyecto de diccionario
